@@ -1,0 +1,13 @@
+/* .card-group-container {
+    height: 30vh;
+} */
+
+
+.image-medium{
+    height: 30vh;
+    object-fit: contain;
+}
+
+.section-three{
+    padding: 5vh;
+}

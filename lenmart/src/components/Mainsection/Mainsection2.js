@@ -3,7 +3,7 @@ import './Mainsection2.css'
 
 function Mainsection2() {
   return (
-    <Carousel variant="dark" class="carousel-container">
+    <Carousel variant="dark" className="carousel-container">
       <Carousel.Item>
         <img
           className="d-block w-100 heightCarousel"
